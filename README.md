@@ -1,6 +1,8 @@
 # WindowsForms_PizzaDelivery
 
-Windows Form App for Pizza Delivery  - check screenshots to see the interface
+Windows Form App pentru Pizza Delivery  - vezi screenshots pentru intefata
+
+! denumirile controalelor nu sunt intuitive, sorry for that
 
 - clase derivate din IClonable si IComparable;
 - clasele contin constructori si proprietati pentru atributele declarate private;
@@ -11,3 +13,4 @@ Windows Form App for Pizza Delivery  - check screenshots to see the interface
 - interfata cu meniuri principale si contextuale specifice 
 - prezentarea grafica a unor date de baza sau calculate
 - implementarea unor functii prin drag & drop + clipboard
+
